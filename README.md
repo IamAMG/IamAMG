@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IamAMG
-- 👀 I’m interested in Competitive Programming
-- 🌱 I’m currently learning C and C++
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently learning Python
   
 
 <!---
