@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @IamAMG
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Python
+- 👋 Hi, this is Akshat Gupta, currently in 2nd year Computer Science, at PDEU.
+- 👀 Working and learning Cyber Security.
+- 🌱 Skilled in Python.
   
 
 <!---
