@@ -22,13 +22,12 @@
   Phishing URLs detector, whether they are fake or valid links.
 - **Project Two**:   https://github.com/KunjShah95/DEEPFAKE-DETECTION-SYSTEM
   A collaborative work on Deepfake image detection prediction model.
-- 
 
 ## 📫 How to reach me
-- **Email:** akshatmanojgupta@gmail.com
-- **LinkedIn:** www.linkedin.com/in/akshat-gupta-036303282
-
-✨ Feel free to explore my repositories and connect with me!
+- **Email:** [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akshatmanojgupta@gmail.com)
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-gupta-036303282/)
+  
+✨ There is no alternate of Hardwork!
 
   
 
