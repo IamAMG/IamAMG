@@ -4,30 +4,29 @@
 
 ## 🚀 Tech Stack
 - **Languages:** 
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-  - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
-  - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C++&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)
+  - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
+  
 - **Frameworks and Libraries:**
-  - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
-  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
-  - ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white)
+  - ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white)
+  - ![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=flat&logo=Matplotlib&logoColor=white)
+  - ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=white)
+  - ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 - **Tools and Platforms:**
   - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
-  - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
-  - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white)
-
+  - ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=Google-Colab&logoColor=white)
+  -![Cursor AI](https://img.shields.io/badge/-Cursor%20AI-2EA44F?style=flat&logo=Cursor-AI&logoColor=white)
 ## 📂 Projects
-- **Project One**: [Project One Repository](https://github.com/username/project-one)  
-  A brief description of Project One.
-- **Project Two**: [Project Two Repository](https://github.com/username/project-two)  
-  A brief description of Project Two.
-- **Project Three**: [Project Three Repository](https://github.com/username/project-three)  
-  A brief description of Project Three.
+- **Project One**: https://github.com/IamAMG/Phishing-Prediction-using-ML  
+  Phishing URLs detector, whether they are fake or valid links.
+- **Project Two**:   https://github.com/KunjShah95/DEEPFAKE-DETECTION-SYSTEM
+  A collaborative work on Deepfake image detection prediction model.
+- 
 
 ## 📫 How to reach me
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- **Email:** akshatmanojgupta@gmail.com
+- **LinkedIn:** www.linkedin.com/in/akshat-gupta-036303282
 
 ✨ Feel free to explore my repositories and connect with me!
 
